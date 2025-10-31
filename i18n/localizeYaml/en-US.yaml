@@ -1,0 +1,43 @@
+SUCCESS: Success!
+NORMAL_FAIL_ERROR: Fail
+TOKEN_INVALID: Token invalid
+TOKEN_GEN_ERROR: Token generation error
+REFRESH_TOKEN_INVALID: Refresh token invalid
+REFRESH_TOKEN_TIME_ERROR: Not time to refresh token, please try again in {{ .time }}
+UN_MARSHAL_ERROR: Unmarshal params error
+UN_SUPPORT_FILE_TYPE: Unsupport file type
+METHOD_NOT_ALLOWED: Method not allowed
+INTERNAL_SERVER_ERROR: Internal server error
+FILE_SYSTEM_ERROR: File system error
+PARAMS_REQUIRED: Params required
+PARAMS_ERROR: Params error
+RECORD_DU_PLICATED: Record duplicated
+DATABASE_SELECT_ERROR: Select error
+DATABASE_DELETE_ERROR: Delete error
+DATABASE_UPDATE_ERROR: Update error
+DATABASE_INSERT_ERROR: Create error
+CAN_NOT_MODIFY_ERROR: Can not modify
+CAN_NOT_DELETE_ERROR: Can not delete
+DATA_VERIFY_ERROR: Data verify error
+UN_LOGIN: Unlogin
+UN_AUTH: No permission
+UN_LOGIN_IP_NOT_AUTH: ({{ .ip }}) IP is not authorized
+DATA_NOT_FOUND: Data not found
+DATA_HAVEN_FOUND: Data already exists
+NOT_FOUND: Not found
+NOT_FOUND_CONFIG: Not found config
+LIMIT_RATE_ERROR: The operation is too fast, please try again in {{ .time }}
+PASSWORD_ERROR: Incorrect password.
+INTERFACE_ERROR: Interface error
+FILE_UPLOAD_ERROR: File upload error
+ACCOUNT_BANNED: Account banned
+EMAIL_SEND_ERROR: Failed to send verification code
+EMAIL_NO_REGISTER: No account associated with this email.
+EMAIL_BOUND_ERROR: This email is already linked to another wallet.
+INVALID_VERIFICATION_CODE_ERROR: Invalid verification code
+FOLLOW_OWNER_ERROR: Can not follow yourself
+OSS_UPLOAD_FILE_ERROR: Oss upload file error
+ACCOUNT_HAVEN_FOUND: Account already exists
+DATA_SYNC_ERROR: Data synchronization error
+CHAT_EXCEED_LIMIT_ERROR: You’ve hit today’s chat limit.
+GET_JWT_BLACKLIST_FAILED: Get jwt blacklist failed
